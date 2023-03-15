@@ -1,0 +1,7 @@
+*.json
+!spec/*.json
+
+*.yaml
+!spec/*.yaml
+
+*.exe
